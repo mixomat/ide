@@ -36,11 +36,12 @@
         <mark key="." line="46" column="86" />
       </file>
       <file name="$USER_HOME$/projects/ayfie/cqrollcall/ingestion/src/integrationTest/java/com/ayfie/platform/ingestion/service/DocumentFeedingIntegrationTest.java" timestamp="1483964195199" />
+      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/main/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/email/EmailMerge.java" timestamp="1483966654422" />
       <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/test/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/inclusivemails/MailInclusionEvaluationTest.java" timestamp="1483958418754" />
       <file name="/fragment.java" timestamp="1483955724353">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/integrationtest/java/com/ayfie/platform/digestion/scanalyzer/pipeline/ScanalyzerPipelineIntegrationTest.java" timestamp="1483957440778">
+      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/integrationtest/java/com/ayfie/platform/digestion/scanalyzer/pipeline/ScanalyzerPipelineIntegrationTest.java" timestamp="1483967038613">
         <mark key="[" line="106" column="75" />
         <mark key="]" line="106" column="74" />
         <mark key="^" line="106" column="74" />
