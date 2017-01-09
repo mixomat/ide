@@ -3,16 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1483966155584">
+      <file name="/Dummy.txt" timestamp="1483968857945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ayfie/cqrollcall/ingestion/src/test/java/com/ayfie/platform/ingestion/rest/CollectionControllerTest.java" timestamp="1483951067223" />
-      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/integrationtest/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/MailInclusionEvaluationIntegrationTest.java" timestamp="1483964827818">
-        <mark key="a" line="52" column="20" />
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="43" column="50" />
-        <mark key="^" line="43" column="50" />
-        <mark key="." line="43" column="50" />
+      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/integrationtest/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/MailInclusionEvaluationIntegrationTest.java" timestamp="1483970272150">
+        <mark key="a" line="43" column="41" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="37" />
+        <mark key="^" line="42" column="7" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1483957253174">
         <mark key="[" line="0" column="0" />
@@ -23,22 +23,34 @@
         <mark key="^" line="86" column="57" />
         <mark key="." line="86" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/main/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/inclusivemails/MailInclusionEvaluation.java" timestamp="1483957145353" />
-      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/main/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/source/ElasticsearchSource.java" timestamp="1483965097081">
-        <mark key="[" line="7" column="142" />
-        <mark key="]" line="7" column="179" />
-        <mark key="." line="7" column="179" />
-        <mark key="^" line="7" column="179" />
+      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/main/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/inclusivemails/MailInclusionEvaluation.java" timestamp="1483969503213">
+        <mark key="[" line="95" column="56" />
+        <mark key="]" line="95" column="56" />
+        <mark key="." line="95" column="56" />
+        <mark key="^" line="95" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/main/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/source/ElasticsearchSource.java" timestamp="1483970033533">
+        <mark key="[" line="38" column="182" />
+        <mark key="]" line="36" column="42" />
+        <mark key="." line="36" column="42" />
+        <mark key="^" line="36" column="42" />
       </file>
       <file name="$USER_HOME$/projects/ayfie/cqrollcall/document/src/main/java/com/ayfie/platform/document/AyfieDocumentSchema.java" timestamp="1483964734901">
         <mark key="[" line="46" column="86" />
         <mark key="]" line="46" column="86" />
         <mark key="." line="46" column="86" />
       </file>
+      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/main/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/sink/ElasticsearchSink.java" timestamp="1483969551790" />
       <file name="$USER_HOME$/projects/ayfie/cqrollcall/ingestion/src/integrationTest/java/com/ayfie/platform/ingestion/service/DocumentFeedingIntegrationTest.java" timestamp="1483964195199" />
       <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/main/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/email/EmailMerge.java" timestamp="1483966654422" />
-      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/test/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/inclusivemails/MailInclusionEvaluationTest.java" timestamp="1483958418754" />
-      <file name="/fragment.java" timestamp="1483955724353">
+      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/test/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/inclusivemails/MailInclusionEvaluationTest.java" timestamp="1483969180464">
+        <mark key="'" line="159" column="62" />
+        <mark key="[" line="158" column="61" />
+        <mark key="]" line="168" column="69" />
+        <mark key="^" line="168" column="69" />
+        <mark key="." line="158" column="69" />
+      </file>
+      <file name="/fragment.java" timestamp="1483968863385">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/integrationtest/java/com/ayfie/platform/digestion/scanalyzer/pipeline/ScanalyzerPipelineIntegrationTest.java" timestamp="1483967038613">
@@ -49,16 +61,24 @@
       </file>
       <file name="$USER_HOME$/projects/ayfie/cqrollcall/ingestion/src/main/java/com/ayfie/platform/ingestion/repository/ElasticsearchCollectionRepository.java" timestamp="1483954519794" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="159" column="62" filename="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/test/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/inclusivemails/MailInclusionEvaluationTest.java" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERVUExJQ0FURV9TSUdOQVRVUkUgPSAiX2R1cGxpY2F0ZVNpZ25hdHVyZSI7Cg==</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERVUExJQ0FURV9TSUdOQVRVUkUgPSAiX2R1cGxpY2F0ZVNpZ25hdHVyZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWVsZChGSUxFUEFUSCwgIjciKQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>t</text>
+      </register>
+      <register name="/" type="4">
+        <text>Date</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWVsZChGSUxFUEFUSCwgIjciKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERVUExJQ0FURV9TSUdOQVRVUkUgPSAiX2R1cGxpY2F0ZVNpZ25hdHVyZSI7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -67,37 +87,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaWQgPSAiMSI7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmVuZE9iamVjdCgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaWQgPSAiMSI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmVuZE9iamVjdCgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpZWxkKElOUFVUX0ZJRUxELCBDT05URU5UX09GX0lOUFVUX0ZJRUxEKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">IiwiLCA=</text>
-      </register>
     </registers>
     <search>
+      <last-search>Date</last-search>
+      <last-pattern>Date</last-pattern>
+      <last-replace>Timestamp</last-replace>
+      <last-substitute>Date</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>Date</entry>
+      </history-search>
       <history-cmd>
         <entry>60</entry>
         <entry>53</entry>
         <entry>52</entry>
         <entry>q</entry>
+        <entry>%s/Date/Timestamp/g</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
