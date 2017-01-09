@@ -3,30 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/ayfie/cqrollcall/ingestion/src/test/java/com/ayfie/platform/ingestion/rest/CollectionControllerTest.java" timestamp="1483951067223" />
-      <file name="$USER_HOME$/projects/ayfie/cqrollcall/document/src/main/java/com/ayfie/platform/document/AyfieDocumentSchema.java" timestamp="1483955155236">
-        <mark key="[" line="61" column="71" />
-        <mark key="]" line="61" column="71" />
-        <mark key="^" line="61" column="80" />
-        <mark key="." line="61" column="71" />
+      <file name="/Dummy.txt" timestamp="1483964556098">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/integrationtest/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/MailInclusionEvaluationIntegrationTest.java" timestamp="1483957092695">
-        <mark key="a" line="51" column="20" />
-        <mark key="[" line="43" column="54" />
-        <mark key="]" line="43" column="23" />
-        <mark key="^" line="43" column="23" />
-        <mark key="." line="43" column="23" />
+      <file name="$USER_HOME$/projects/ayfie/cqrollcall/ingestion/src/test/java/com/ayfie/platform/ingestion/rest/CollectionControllerTest.java" timestamp="1483951067223" />
+      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/integrationtest/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/MailInclusionEvaluationIntegrationTest.java" timestamp="1483964345016">
+        <mark key="a" line="52" column="20" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="47" column="23" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1483957253174">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/integrationtest/java/com/ayfie/platform/digestion/scanalyzer/ScanalyzerIntegrationTestBase.java" timestamp="1483957466996">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="81" column="33" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/integrationtest/java/com/ayfie/platform/digestion/scanalyzer/ScanalyzerIntegrationTestBase.java" timestamp="1483964230156">
+        <mark key="[" line="86" column="48" />
+        <mark key="]" line="86" column="57" />
+        <mark key="^" line="86" column="57" />
+        <mark key="." line="86" column="57" />
       </file>
       <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/main/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/inclusivemails/MailInclusionEvaluation.java" timestamp="1483957145353" />
+      <file name="$USER_HOME$/projects/ayfie/cqrollcall/ingestion/src/integrationTest/java/com/ayfie/platform/ingestion/service/DocumentFeedingIntegrationTest.java" timestamp="1483964195199" />
+      <file name="$USER_HOME$/projects/ayfie/cqrollcall/digestion/src/test/java/com/ayfie/platform/digestion/scanalyzer/scanalyzers/inclusivemails/MailInclusionEvaluationTest.java" timestamp="1483958418754" />
       <file name="/fragment.java" timestamp="1483955724353">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,40 +40,40 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmVuZE9iamVjdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpZWxkKElOUFVUX0ZJRUxELCBDT05URU5UX09GX0lOUFVUX0ZJRUxEKQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaWQgPSAiMSI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpZWxkKElEX0ZJRUxELCBpZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnN0YXJ0T2JqZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmVuZE9iamVjdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6d2hpbGUgKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpZWxkKElOUFVUX0ZJRUxELCBDT05URU5UX09GX0lOUFVUX0ZJRUxEKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpZWxkKElEX0ZJRUxELCBpZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>jsonBuilder()</text>
+        <text>COLLECTION_ID</text>
       </register>
     </registers>
     <search>
@@ -86,6 +85,7 @@
         <entry>60</entry>
         <entry>53</entry>
         <entry>52</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
