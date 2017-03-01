@@ -5,6 +5,7 @@
       <mapping ext="aut" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="tri" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
     </extensionMap>
