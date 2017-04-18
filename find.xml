@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,20 +15,20 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
+      <mask>*.groo</mask>
+      <mask>*.t</mask>
+      <mask>*.tx</mask>
+      <mask>*.txt</mask>
+      <mask>*</mask>
+      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gro</mask>
-      <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*.t</mask>
-      <mask>*.tx</mask>
-      <mask>*.txt</mask>
-      <mask>*</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
