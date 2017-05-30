@@ -3,6 +3,7 @@
     <option name="UI_SHOW_MODULE_GROUPS" value="false" />
   </component>
   <component name="UISettings">
+    <option name="FONT_FACE" value=".SFNSText-Regular" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
   </component>
 </application>
