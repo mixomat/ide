@@ -8,15 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.txt</mask>
-      <mask>*.tx</mask>
-      <mask>*.t</mask>
-      <mask>*.y</mask>
-      <mask>*.yml</mask>
-      <mask>Ü.</mask>
-      <mask>Ü</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.java</mask>
@@ -38,6 +29,15 @@
       <mask>*y</mask>
       <mask>*</mask>
       <mask>*java</mask>
+      <mask>.tx</mask>
+      <mask>.txt</mask>
+      <mask>.xsl</mask>
+      <mask>.xs</mask>
+      <mask>.x</mask>
+      <mask>.</mask>
+      <mask>.t</mask>
+      <mask>.ts</mask>
+      <mask>.tsv</mask>
     </recentFileMasks>
   </component>
 </application>
