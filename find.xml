@@ -5,12 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.go</mask>
@@ -18,7 +14,6 @@
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
-      <mask>*.groovy</mask>
       <mask>*yaml</mask>
       <mask>*yam</mask>
       <mask>*ya</mask>
@@ -32,10 +27,16 @@
       <mask>.xsl</mask>
       <mask>.xs</mask>
       <mask>.x</mask>
-      <mask>.</mask>
       <mask>.t</mask>
       <mask>.ts</mask>
       <mask>.tsv</mask>
+      <mask>.</mask>
+      <mask>.g</mask>
+      <mask>.gr</mask>
+      <mask>.gro</mask>
+      <mask>.groov</mask>
+      <mask>.groovy</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
