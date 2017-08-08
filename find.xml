@@ -5,10 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.go</mask>
       <mask>*.g</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
@@ -19,7 +17,6 @@
       <mask>*yml</mask>
       <mask>*ym</mask>
       <mask>*y</mask>
-      <mask>*</mask>
       <mask>*java</mask>
       <mask>.tx</mask>
       <mask>.txt</mask>
@@ -36,6 +33,10 @@
       <mask>.groov</mask>
       <mask>.groovy</mask>
       <mask>*.groovy</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
