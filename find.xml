@@ -6,15 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.g</mask>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*yaml</mask>
-      <mask>*yam</mask>
-      <mask>*ya</mask>
-      <mask>*yml</mask>
-      <mask>*ym</mask>
       <mask>*y</mask>
       <mask>*java</mask>
       <mask>.tx</mask>
@@ -31,11 +22,20 @@
       <mask>.gro</mask>
       <mask>.groov</mask>
       <mask>.groovy</mask>
-      <mask>*.groovy</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>g</mask>
+      <mask>*</mask>
+      <mask>*gro</mask>
+      <mask>*groo</mask>
+      <mask>*groov</mask>
+      <mask>*groovy</mask>
+      <mask>*.groovy</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
