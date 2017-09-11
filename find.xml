@@ -5,10 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*y</mask>
-      <mask>*java</mask>
-      <mask>.tx</mask>
       <mask>.txt</mask>
       <mask>.xsl</mask>
       <mask>.xs</mask>
@@ -22,11 +20,8 @@
       <mask>.gro</mask>
       <mask>.groov</mask>
       <mask>.groovy</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>g</mask>
-      <mask>*</mask>
       <mask>*gro</mask>
       <mask>*groo</mask>
       <mask>*groov</mask>
@@ -36,6 +31,12 @@
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
+      <mask>Ü.</mask>
+      <mask>Ü</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
