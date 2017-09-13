@@ -5,7 +5,6 @@
       <mapping ext="performance" type="Groovy" />
       <mapping ext="gz" type="Native" />
       <mapping ext="aut" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="tri" type="PLAIN_TEXT" />
