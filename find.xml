@@ -4,22 +4,11 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="application*yml" />
     <recentFileMasks>
-      <mask>.txt</mask>
-      <mask>.xsl</mask>
-      <mask>.xs</mask>
-      <mask>.x</mask>
-      <mask>.t</mask>
-      <mask>.ts</mask>
-      <mask>.tsv</mask>
-      <mask>.</mask>
-      <mask>.g</mask>
       <mask>.gr</mask>
       <mask>.gro</mask>
       <mask>.groov</mask>
@@ -41,6 +30,15 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
+      <mask>yml</mask>
+      <mask>*ymla</mask>
+      <mask>*yml</mask>
+      <mask>a*yml</mask>
+      <mask>ap*yml</mask>
+      <mask>app*yml</mask>
+      <mask>appli*yml</mask>
+      <mask>applica*yml</mask>
+      <mask>application*yml</mask>
     </recentFileMasks>
   </component>
 </application>
