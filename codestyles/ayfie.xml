@@ -1,4 +1,8 @@
 <code_scheme name="ayfie">
+  <HCL-Terraform>
+    <option name="OBJECT_WRAPPING" value="1" />
+    <option name="ARRAY_WRAPPING" value="1" />
+  </HCL-Terraform>
   <codeStyleSettings language="Groovy">
     <option name="BLANK_LINES_AROUND_METHOD" value="2" />
   </codeStyleSettings>
