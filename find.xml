@@ -9,11 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="docker*" />
     <recentFileMasks>
-      <mask>.gr</mask>
-      <mask>.gro</mask>
-      <mask>.groov</mask>
-      <mask>.groovy</mask>
       <mask>*.ja</mask>
       <mask>g</mask>
       <mask>*gro</mask>
@@ -40,6 +37,10 @@
       <mask>appli*yml</mask>
       <mask>applica*yml</mask>
       <mask>application*yml</mask>
+      <mask>d</mask>
+      <mask>doc</mask>
+      <mask>docker</mask>
+      <mask>docker*</mask>
     </recentFileMasks>
   </component>
 </application>
