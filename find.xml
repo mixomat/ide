@@ -7,21 +7,13 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="application*" />
     <recentFileMasks>
-      <mask>*.ja</mask>
-      <mask>g</mask>
-      <mask>*gro</mask>
-      <mask>*groo</mask>
-      <mask>*groov</mask>
-      <mask>*groovy</mask>
-      <mask>*.groovy</mask>
-      <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
       <mask>Ü.</mask>
       <mask>Ü</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
@@ -38,6 +30,15 @@
       <mask>doc</mask>
       <mask>docker</mask>
       <mask>docker*</mask>
+      <mask>*a</mask>
+      <mask>*</mask>
+      <mask>a</mask>
+      <mask>ap</mask>
+      <mask>app</mask>
+      <mask>appl</mask>
+      <mask>applica</mask>
+      <mask>application</mask>
+      <mask>application*</mask>
     </recentFileMasks>
   </component>
 </application>
