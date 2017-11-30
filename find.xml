@@ -8,10 +8,6 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradle</mask>
-      <mask>Ü.</mask>
       <mask>Ü</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
@@ -38,6 +34,10 @@
       <mask>applica</mask>
       <mask>application</mask>
       <mask>application*</mask>
+      <mask>docker-</mask>
+      <mask>docker-compo</mask>
+      <mask>docker-compose</mask>
+      <mask>docker-compose*</mask>
     </recentFileMasks>
   </component>
 </application>
