@@ -4,6 +4,7 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="performance" type="Groovy" />
       <mapping ext="gz" type="Native" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="aut" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
