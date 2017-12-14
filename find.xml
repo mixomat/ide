@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="applic*" />
     <recentFileMasks>
-      <mask>Ü</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
       <mask>yml</mask>
@@ -23,9 +22,6 @@
       <mask>docker*</mask>
       <mask>*a</mask>
       <mask>*</mask>
-      <mask>a</mask>
-      <mask>ap</mask>
-      <mask>app</mask>
       <mask>appl</mask>
       <mask>applica</mask>
       <mask>application</mask>
@@ -34,6 +30,11 @@
       <mask>docker-compo</mask>
       <mask>docker-compose</mask>
       <mask>docker-compose*</mask>
+      <mask>a</mask>
+      <mask>ap</mask>
+      <mask>app</mask>
+      <mask>applic</mask>
+      <mask>applic*</mask>
     </recentFileMasks>
   </component>
 </application>
