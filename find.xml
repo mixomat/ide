@@ -5,12 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!pom.xml" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*.java</mask>
-      <mask>yml</mask>
-      <mask>*ymla</mask>
-      <mask>*yml</mask>
       <mask>a*yml</mask>
       <mask>ap*yml</mask>
       <mask>app*yml</mask>
@@ -36,6 +32,11 @@
       <mask>app</mask>
       <mask>applic</mask>
       <mask>applic*</mask>
+      <mask>!</mask>
+      <mask>!pomx</mask>
+      <mask>!pom</mask>
+      <mask>!pom.</mask>
+      <mask>!pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
