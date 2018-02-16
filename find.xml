@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '.../sistrix-crawler-aggregator/sistrix-crawler/src/main/java/net/sourceforge/sitemaps [sistrix-crawler]'" />
+    <option name="defaultScopeName" value="Directory '.../sistrix-crawler-aggregator/sistrix-crawler/src/main/java/net/sourceforge/sitemaps [sistrix-crawler]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../sistrix-crawler-aggregator/sistrix-crawler/src/main/java/net/sourceforge/sitemaps [sistrix-crawler]'" />
     <recentFileMasks>
       <mask>a*yml</mask>
       <mask>ap*yml</mask>
