@@ -2,4 +2,12 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="PREVIEW" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bTODO mawe\b.*" />
+    <filter name="mawe todos">
+      <pattern index="2" />
+    </filter>
+  </component>
 </application>
