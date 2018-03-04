@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
-      <mask>a*yml</mask>
-      <mask>ap*yml</mask>
-      <mask>app*yml</mask>
-      <mask>appli*yml</mask>
-      <mask>applica*yml</mask>
-      <mask>application*yml</mask>
-      <mask>d</mask>
       <mask>doc</mask>
       <mask>docker</mask>
       <mask>docker*</mask>
@@ -34,6 +28,13 @@
       <mask>!pom</mask>
       <mask>!pom.</mask>
       <mask>!pom.xml</mask>
+      <mask>g</mask>
+      <mask>b</mask>
+      <mask>buil</mask>
+      <mask>build</mask>
+      <mask>build.</mask>
+      <mask>build.g</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
