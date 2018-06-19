@@ -1,39 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <recentFileMasks>
-      <mask>doc</mask>
-      <mask>docker</mask>
-      <mask>docker*</mask>
-      <mask>*a</mask>
-      <mask>*</mask>
-      <mask>appl</mask>
-      <mask>applica</mask>
-      <mask>application</mask>
-      <mask>application*</mask>
-      <mask>docker-</mask>
-      <mask>docker-compo</mask>
-      <mask>docker-compose</mask>
-      <mask>docker-compose*</mask>
-      <mask>a</mask>
-      <mask>ap</mask>
-      <mask>app</mask>
-      <mask>applic</mask>
-      <mask>applic*</mask>
-      <mask>!</mask>
-      <mask>!pomx</mask>
-      <mask>!pom</mask>
-      <mask>!pom.</mask>
-      <mask>!pom.xml</mask>
-      <mask>g</mask>
-      <mask>b</mask>
-      <mask>buil</mask>
-      <mask>build</mask>
-      <mask>build.</mask>
-      <mask>build.g</mask>
-      <mask>build.gradle</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
