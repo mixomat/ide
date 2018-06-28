@@ -53,6 +53,9 @@
       <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
+      <library>
+        <url>jar://$USER_HOME$/projects/ruby/rails/alkoport/postgresql-9.4-1201.jdbc4.jar!/</url>
+      </library>
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />
