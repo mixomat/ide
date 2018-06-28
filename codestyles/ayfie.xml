@@ -1,5 +1,11 @@
 <code_scheme name="ayfie">
-  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="5" />
+  <HCL-Terraform>
+    <option name="OBJECT_WRAPPING" value="1" />
+    <option name="ARRAY_WRAPPING" value="1" />
+  </HCL-Terraform>
+  <codeStyleSettings language="Groovy">
+    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="BLANK_LINES_AROUND_METHOD" value="2" />
   </codeStyleSettings>
