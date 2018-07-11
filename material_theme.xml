@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.2-2018.1" />
+    <option name="selectedTheme" value="SOLARIZED_DARK" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
     <option name="userId" value="-11c84a42:1648867c9a2:-8000" />
