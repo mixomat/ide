@@ -2,11 +2,12 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.2-2018.1" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="80cbc4" />
-    <option name="isCompactTables" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="customSidebarHeight" value="20" />
     <option name="darkTitleBar" value="true" />
-    <option name="settingsSelectedTab" value="6" />
     <option name="userId" value="-11c84a42:1648867c9a2:-8000" />
   </component>
 </application>
