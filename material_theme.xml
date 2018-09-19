@@ -12,7 +12,8 @@
     <option name="darkTitleBar" value="true" />
     <option name="indicatorStyle" value="Dot" />
     <option name="compactDropdowns" value="true" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="userId" value="-11c84a42:1648867c9a2:-8000" />
     <option name="allowDataCollection" value="true" />
     <option name="indicatorThickness" value="3" />
