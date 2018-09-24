@@ -1,12 +1,3 @@
 <application>
   <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
-  <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-        </PlaceSettings>
-      </entry>
-    </option>
-  </component>
 </application>
