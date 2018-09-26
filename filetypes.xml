@@ -15,6 +15,7 @@
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="grafana" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="tri" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
