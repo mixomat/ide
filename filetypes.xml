@@ -9,6 +9,7 @@
       <mapping pattern="kubernetes-cluster-status-dashboard" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="deliver_crawler" type="PLAIN_TEXT" />
+      <mapping ext="crawler-rollout" type="PLAIN_TEXT" />
       <mapping ext="aut" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
