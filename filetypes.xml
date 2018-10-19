@@ -5,6 +5,7 @@
       <mapping ext="performance" type="Groovy" />
       <mapping ext="gz" type="Native" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern="netrc" type="PLAIN_TEXT" />
       <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="kubernetes-cluster-status-dashboard" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
