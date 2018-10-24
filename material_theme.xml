@@ -4,6 +4,9 @@
     <option name="selectedTheme" value="MONOKAI" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="leftTreeIndent" value="4" />
     <option name="accentColor" value="ff6188" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -13,7 +16,7 @@
     <option name="indicatorStyle" value="Dot" />
     <option name="compactDropdowns" value="true" />
     <option name="upperCaseButtons" value="false" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="userId" value="-11c84a42:1648867c9a2:-8000" />
     <option name="allowDataCollection" value="true" />
     <option name="indicatorThickness" value="3" />
