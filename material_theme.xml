@@ -5,6 +5,7 @@
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
@@ -14,7 +15,7 @@
     <option name="customSidebarHeight" value="20" />
     <option name="indicatorThickness" value="3" />
     <option name="leftTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="accentColor" value="ff6188" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="MONOKAI" />
