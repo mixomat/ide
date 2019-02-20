@@ -3,7 +3,7 @@
     <option name="FONT_FAMILY" value="Inconsolata" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
