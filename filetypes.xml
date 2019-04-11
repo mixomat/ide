@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="performance" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="gz" type="Native" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
@@ -14,6 +14,7 @@
       <mapping ext="deliver_crawler" type="PLAIN_TEXT" />
       <mapping ext="crawler-rollout" type="PLAIN_TEXT" />
       <mapping ext="aut" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
@@ -21,7 +22,6 @@
       <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="seed-import" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="tri" type="PLAIN_TEXT" />
       <mapping ext="cmctl" type="PLAIN_TEXT" />
       <mapping ext="grafana" type="PLAIN_TEXT" />
