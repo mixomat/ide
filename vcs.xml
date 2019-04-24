@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="mixomat" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://ext-github.swm.de" />
+          <option name="userName" value="weinberger.marc@swm.de" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
