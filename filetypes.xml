@@ -16,10 +16,10 @@
       <mapping ext="crawler-rollout" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="seed-import" type="PLAIN_TEXT" />
+      <mapping ext="tri" type="PLAIN_TEXT" />
       <mapping ext="aut" type="PLAIN_TEXT" />
       <mapping ext="finished" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
-      <mapping ext="tri" type="PLAIN_TEXT" />
       <mapping ext="csvexport" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="cmctl" type="PLAIN_TEXT" />
