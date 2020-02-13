@@ -1,0 +1,7 @@
+<templateSet group="Kotlin">
+  <template name="logger" value="private val logger = KotlinLogging.logger { }" description="Kotliln Logging Logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>
