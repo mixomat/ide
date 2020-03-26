@@ -14,6 +14,7 @@
     </option>
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="COMPACT_REFERENCES_VIEW" value="false" />
     <option name="SHOW_TAG_NAMES" value="true" />
     <option name="LABELS_LEFT_ALIGNED" value="true" />
     <option name="COLUMN_ORDER">
