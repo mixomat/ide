@@ -12,11 +12,11 @@
       <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="kubernetes-cluster-status-dashboard" type="PLAIN_TEXT" />
+      <mapping ext="tri" type="PLAIN_TEXT" />
       <mapping ext="deliver_crawler" type="PLAIN_TEXT" />
       <mapping ext="aut" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
-      <mapping ext="tri" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="seed-import" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
