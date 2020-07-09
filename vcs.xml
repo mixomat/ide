@@ -10,6 +10,10 @@
           <option name="url" value="http://ext-github.swm.de" />
           <option name="userName" value="weinberger.marc@swm.de" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="marc_weinberger" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
