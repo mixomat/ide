@@ -4,11 +4,11 @@
     <property name="created">2018-10-24T13:20:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2020-07-09T13:27:33</property>
+    <property name="modified">2020-08-06T08:40:59</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Inconsolata" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -117,9 +117,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>

@@ -3,7 +3,6 @@
     <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Inconsolata" />
   </component>
   <component name="EditorSettings">
