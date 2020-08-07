@@ -1,9 +1,7 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="kotlin:S100" />
-      </set>
-    </option>
+    <rules>
+      <Rule active="false" key="kotlin:S100" />
+    </rules>
   </component>
 </application>
