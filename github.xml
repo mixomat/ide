@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account id="32c61039-45c4-4d0c-9a2c-ec5bc36fea80" name="mixomat">
-      <server host="github.com" />
-    </account>
-  </component>
-</application>
