@@ -4,4 +4,11 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="klogger" value="private val logger = mu.KotlinLogging.logger {}" description="Declare KotlinLogging logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
