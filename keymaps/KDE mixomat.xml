@@ -2,6 +2,7 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt released r" />
@@ -30,6 +31,10 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="ExportToTextFile" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift alt 7" />
@@ -43,6 +48,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
+  <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -64,6 +70,8 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.UpdateProject" />
 </keymap>
