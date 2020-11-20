@@ -98,5 +98,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="Vcs.UpdateProject" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
 </keymap>
