@@ -14,6 +14,11 @@
     <keyboard-shortcut first-keystroke="ctrl 4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
   <action id="Console.TableResult.CompareCells" />
   <action id="Diagram.SelectAll">
     <keyboard-shortcut first-keystroke="alt a" />
@@ -73,6 +78,7 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="RecentChanges" />
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
