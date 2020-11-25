@@ -57,6 +57,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift alt 8" />
+    <keyboard-shortcut first-keystroke="alt f8" />
+  </action>
   <action id="ExportToTextFile" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift alt 7" />
