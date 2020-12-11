@@ -41,7 +41,8 @@
       <removed_mapping ext="ps1" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
     </extensionMap>
   </component>
 </application>
