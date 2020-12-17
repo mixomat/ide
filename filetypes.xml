@@ -13,33 +13,32 @@
       <mapping pattern="fi" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="netrc" type="PLAIN_TEXT" />
-      <mapping ext="deliver_crawler" type="PLAIN_TEXT" />
-      <mapping ext="crawler-rollout" type="PLAIN_TEXT" />
-      <mapping ext="cmctl" type="PLAIN_TEXT" />
       <mapping ext="aut" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="finished" type="PLAIN_TEXT" />
       <mapping ext="seed-import" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="grafana" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="csvexport" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="yam" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
+      <mapping ext="deliver_crawler" type="PLAIN_TEXT" />
+      <mapping ext="crawler-rollout" type="PLAIN_TEXT" />
+      <mapping ext="cmctl" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="yam" type="PLAIN_TEXT" />
       <mapping ext="tri" type="PLAIN_TEXT" />
       <mapping pattern="managed-schema" type="XML" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="lua" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="ps1" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
