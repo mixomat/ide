@@ -2,34 +2,35 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="namespace" type="AUTO_DETECTED" />
+      <mapping pattern="Order" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="performance" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gz" type="Native" />
       <mapping pattern="htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
-      <mapping pattern="kubernetes-cluster-status-dashboard" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="fi" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="netrc" type="PLAIN_TEXT" />
+      <mapping pattern="kubernetes-cluster-status-dashboard" type="PLAIN_TEXT" />
+      <mapping ext="deliver_crawler" type="PLAIN_TEXT" />
+      <mapping ext="crawler-rollout" type="PLAIN_TEXT" />
+      <mapping ext="cmctl" type="PLAIN_TEXT" />
       <mapping ext="aut" type="PLAIN_TEXT" />
       <mapping ext="en" type="PLAIN_TEXT" />
       <mapping ext="finished" type="PLAIN_TEXT" />
       <mapping ext="seed-import" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="grafana" type="PLAIN_TEXT" />
-      <mapping ext="csvexport" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="dict" type="PLAIN_TEXT" />
-      <mapping ext="deliver_crawler" type="PLAIN_TEXT" />
-      <mapping ext="crawler-rollout" type="PLAIN_TEXT" />
-      <mapping ext="cmctl" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="csvexport" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="yam" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="dict" type="PLAIN_TEXT" />
       <mapping ext="tri" type="PLAIN_TEXT" />
       <mapping pattern="managed-schema" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />

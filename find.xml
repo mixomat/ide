@@ -18,7 +18,7 @@
     <mask>build.gradle</mask>
     <mask>*.kt</mask>
     <mask>pom.xml</mask>
-    <mask>*proto</mask>
     <mask>*.yml</mask>
+    <mask>*proto</mask>
   </component>
 </application>
