@@ -5,6 +5,10 @@
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="CopyPaths" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta alt back_quote" />
+    <keyboard-shortcut first-keystroke="meta less" />
+  </action>
   <action id="RemoteHostView.CopyPaths" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
