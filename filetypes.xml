@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping pattern="Order" type="AUTO_DETECTED" />
       <mapping pattern="namespace" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="performance" type="Groovy" />
       <mapping ext="space.kts" type="Kotlin" />
@@ -33,6 +36,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="yam" type="PLAIN_TEXT" />
       <mapping ext="tri" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="TSV" />
       <mapping pattern="managed-schema" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
