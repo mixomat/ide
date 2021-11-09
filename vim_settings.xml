@@ -24,11 +24,20 @@
       <shortcut-conflict owner="vim">
         <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEs=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIDI=</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
