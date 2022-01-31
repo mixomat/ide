@@ -27,9 +27,6 @@
       <shortcut-conflict owner="ide">
         <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
       </shortcut-conflict>
