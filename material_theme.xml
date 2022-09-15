@@ -7,7 +7,6 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -27,6 +26,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-11c84a42:1648867c9a2:-8000" />
-    <option name="version" value="5.2.0" />
+    <option name="version" value="7.9.0" />
   </component>
 </application>
