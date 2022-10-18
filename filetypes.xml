@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Order" type="AUTO_DETECTED" />
+      <mapping pattern="Makefile" type="AUTO_DETECTED" />
       <mapping pattern="namespace" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="performance" type="Groovy" />
