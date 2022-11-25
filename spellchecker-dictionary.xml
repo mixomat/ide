@@ -8,6 +8,7 @@
       <w>eventconsumer</w>
       <w>exaring</w>
       <w>jwts</w>
+      <w>opentelemetry</w>
     </words>
   </component>
 </application>
